@@ -1,0 +1,42 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\Huanghuang\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\Coacs\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\Huanghuang\Envs\Data\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProject\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProjects\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\shop\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\sip-compute\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\upays\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\Huanghuang\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\Coacs\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProject\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProjects\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\shop\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\sip-compute\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\upays\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\Huanghuang\AppData\Local\Programs\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\Coacs\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProject\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\DjangoProjects\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\shop\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\sip-compute\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Huanghuang\Envs\upays\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
