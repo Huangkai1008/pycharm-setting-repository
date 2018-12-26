@@ -1,2 +1,2 @@
-# idea-settings-repository
-idea配置仓库
+# pycharm-settings-repository
+pycharm配置仓库
