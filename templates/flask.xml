@@ -1,0 +1,16 @@
+<templateSet group="flask">
+  <template name="routet" value="@app.route('/$ROUTE_NAME$', methods=['PUT'])&#10;def $METHOD_NAME$():&#10;    pass" description="Flask route with 'PUT' method" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+  <template name="routed" value="@app.route('/$ROUTE_NAME$', methods=['DELETE'])&#10;def $METHOD_NAME$():&#10;    pass" description="Flask route with 'DELETE' method" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python_Class" value="true" />
+    </context>
+  </template>
+</templateSet>
