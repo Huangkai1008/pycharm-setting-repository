@@ -1,0 +1,8 @@
+<templateSet group="flask_sqlalchemy">
+  <template name="commit" value="db.session.commit" description="flask_sqlalchemy  session commit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Python_Class" value="false" />
+    </context>
+  </template>
+</templateSet>
