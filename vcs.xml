@@ -3,23 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://192.168.10.243:7990" />
-          <option name="userName" value="huang.kai" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:Huangkai1008/awesome-python.git" />
+          <option name="url" value="git@github.com:Huangkai1008/VueMarket.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:Huangkai1008/campus_shop.git" />
+          <option name="url" value="git@github.com:Huangkai1008/sip-compute.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/timmyreilly/Demo-Flask-SocketIO.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Hcastilla/Flask-SocketIO.git" />
+          <option name="url" value="git@github.com:Huangkai1008/sips.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -27,15 +19,27 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:Huangkai1008/game_backend.git" />
+          <option name="url" value="git@github.com:Huangkai1008/AskQ.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@192.168.10.243:7999/aps/aps.git" />
+          <option name="url" value="git@github.com:Huangkai1008/aps.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Huangkai1008/awesome-python.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Huangkai1008/python_data_structure.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Huangkai1008/quiz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Huanghuang\PycharmProjects" />
+    <option name="cloneParentDir" value="G:\PycharmProjects" />
   </component>
 </application>
