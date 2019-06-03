@@ -46,6 +46,10 @@
           <option name="url" value="ssh://git@192.168.10.243:7999/aps/aps-compute.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Huangkai1008/ml.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
