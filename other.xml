@@ -1,0 +1,267 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DuplicatedCode</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Microsoft YaHei" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1Rwyw96gZFTEjBxGa5QWsh3rPPD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1eTY7SjLdSoYFfgTN9gWvJr98Um">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1eloCIXJhdaofySPui1jWuPlPGx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1gUe1hr4YzrfDV9pHL1sRleajhf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1mm3chmmI7zmF2Zjdl198Dx8TNH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1r4XHgZcxVb0hKjSfnoWWIioxte">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rFsrJD3uksFAfIlHSHcA1S30WT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1svWArxJGDU7mwDdwOkCvybYv0R">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xwxOndBEso2bzRfGQiUS0XBc5y">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1y5OAVjiYa2tcIWBJkku8orz0dP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zfeXaU3rqcRVBcYzRIhZIjRdMx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20Jlf5OgZ1D3xm9hgvZKPHQVRXi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23EaxMptQZFCUjkeuwiLed2mI3d">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.95" />
+    <property name="CommitToolWindow.COMMIT_SPLITTER_PROPORTION" value="0.56799996" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.413" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="FontPreviewText" value="PyCharm is a full-featured IDE&#10;with a high level of usability and outstanding&#10;advanced code editing and refactoring support.&#10;&#10;abcdefghijklmnopqrstuvwxyz 0123456789 (){}[]&#10;ABCDEFGHIJKLMNOPQRSTUVWXYZ +-*/= .,;:!? #&amp;$%@|^&#10;&#10;&lt;!-- -- != := === &gt;= &gt;- &gt;=&gt; |-&gt; -&gt; &lt;$&gt; &lt;/&gt; #[ |||&gt; |= ~@&#10;&#10;文泉驿" />
+    <property name="InstalledPluginsSearchHistory" value="py&#10;p&#10;pydan&#10;make&#10;ma" />
+    <property name="MarketplacePluginsSearchHistory" value="poetry&#10;/tag:Theme /sortBy:downloads&#10;/tag:Theme /sortBy:rating&#10;/tag:Theme&#10;pyproject" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SHELLCHECK.PATH" value="C:\Users\huangkai\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\192.6603.34.plugins\Shell Script\shellcheck.exe" />
+    <property name="SettingsSearchHistory" value="comment&#10;Ter&#10;Vag&#10;term&#10;style" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="[python&#10;python" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.60938746" />
+    <property name="Vcs.Log.Text.Filter.History" value="唯一码" />
+    <property name="appcds.runOnSecondStart" value="PY-212.5457.59-16287765e74ad407625ed69d113a228977f7f5ab7316056005d0119fe6395740" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="413" />
+    <property name="evlsprt.192" value="16cfedda5ca" />
+    <property name="evlsprt.201" value="175bc8a8813" />
+    <property name="evlsprt2.192" value="16ca31ed9e9" />
+    <property name="evlsprt2.201" value="1757ee9ebbf" />
+    <property name="evlsprt3.192" value="19" />
+    <property name="evlsprt3.193" value="18" />
+    <property name="evlsprt3.201" value="13" />
+    <property name="evlsprt3.203" value="10" />
+    <property name="evlsprt3.211" value="13" />
+    <property name="evlsprt3.212" value="16" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Local/pypoetry/Cache/virtualenvs/market-backstage-M4asBBlY-py3.7/Scripts/python.exe&#10;D:/aliexpress&#10;C:/Users/huangkai/iCloudDrive/iCloud~md~obsidian/myblog&#10;C:/Users/huangkai&#10;C:/Users/huangkai/AppData/Local/pypoetry/Cache/virtualenvs/python-starter-k7hqggnA-py3.7/Scripts/python.exe&#10;C:/Users/huangkai/AppData/Local/pypoetry/Cache/virtualenvs/market-backstage-py3.7/Scripts/python.exe&#10;D:/workdir/mes-backend&#10;C:/Users/huangkai/Desktop/myblog&#10;D:/workdir/projects/mxshop_srvs&#10;D:/workdir/projects/quiz-backend&#10;D:/workdir/copyed/data/projects/aps&#10;D:/workdir/projects/aps-backend&#10;C:/Users/huangkai/AppData/Local/pypoetry/Cache/virtualenvs/mes--JFCVCSF-py3.7/Scripts/python.exe&#10;D:/workdir/projects/mes-backend&#10;C:/Users/huangkai/Documents/MES_demo包/mes-backend&#10;D:/workdir/projects/recipe-manage&#10;C:/Program Files/Git/bin/sh.exe&#10;C:/cmder/Cmder.exe&#10;D:/workdir/projects/zanhu&#10;C:/Users/huangkai/AppData/Local/pypoetry/Cache/virtualenvs/quiz-yt3ZFDdq-py3.7/Scripts/python.exe&#10;D:/workdir/projects/quiz/run.py&#10;C:/Users/huangkai/.virtualenvs/quiz-_wzuQO3w/Scripts/python.exe&#10;D:/workdir/projects/quiz&#10;C:/Users/huangkai/Desktop/aps/run.py&#10;C:/Users/huangkai/AppData/Local/pypoetry/Cache/virtualenvs/python-algorithms-olUTQR4P-py3.7/Scripts/python.exe&#10;D:/workdir/projects/python-algorithms&#10;D:/workdir/projects/algorithms&#10;D:/python-data-structures/README.md&#10;D:/vagrant/ubuntu/Vagrantfile&#10;D:/workdir/projects" />
+    <property name="file.gist.reindex.count" value="222913" />
+    <property name="fileTypeChangedCounter" value="172" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.js.debugger.terminal.start.debugger.from.url" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-212.5457.59" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="64191" />
+    <property name="lastSeenTip" value="neue-InspectionsWidget.html" />
+    <property name="lastTimeTipsWereShown" value="1627198665100" />
+    <property name="lastTip" value="4" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/pypoetry/Cache/virtualenvs/market-backstage-M4asBBlY-py3.7/Scripts/python.exe" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-212.5457.59" />
+    <property name="seenTips" value="neue-c70d1e38.html,neue-BreakpointIntentions.html,neue-ToolWindowsQuickAccess.html,neue-CtrlShiftI.html,neue-QuickJavaDocInLookups.html,neue-WildcardsInNavigationPopups.html,neue-CtrlDotInLookups.html,neue-QuickFixRightArrow.html,neue-RecentChanges.html,neue-12c44d.html,neue-LocalVCS.html,neue-TypeHinting.html,neue-ImagesLookup.html,neue-DBMakeDataSourceReadonly.html,neue-RunTests.html,neue-NavigateToFilePath.html,neue-OverrideImplementMethods.html,neue-OptimizeImports-py.html,neue-PreviewTODO.html,neue-AnnotationsAndDiffs.html,neue-LaunchConsole.html,neue-adda262c.html,neue-LiveTemplatesRestore.html,neue-warning_for_incorrect_equals_operator.html,neue-IntroduceVariable.html,neue-Multicursor1.html,neue-tips_db_WordCompletion.html,neue-FindReplaceToggle.html,neue-CamelPrefixesInNavigationPopups.html,neue-DBConsole.html,neue-ConsolesCodeCompletion.html,neue-17bc97b9.html,neue-ShowHideSideBars.html,neue-MultiselectionWords.html,neue-RedirectingInput.html,neue-JoinLines.html,neue-JumpToLastEdit.html,neue-Interpreter.html,neue-CloseOthers.html,neue-partial_git_commit.html,neue-ClosingTag.html,neue-Scratch.html,neue-Welcome.html,neue-MethodUpDown.html,neue-QuickDocInSuggestionList.html,neue-TabInEditorClose.html,neue-jump_to_colors_fonts.html,neue-db_tip_forget_cached_schemas.html,neue-QuickDocOnMouseMove.html,neue-JupyterShortcuts.html,neue-ConsolesHistory.html,neue-ImageFileCompletion.html,neue-DragToOpen.html,neue-SurroundWith.html,neue-PytestFixtures.html,neue-CtrlShiftIForLookup.html,neue-SearchEverywhere.html,neue-CancelByControlArrows.html,neue-Compare.html,neue-SpeedSearch.html,neue-Managepy.html,neue-recent locations.html,neue-BuiltInServer.html,neue-RecentFiles.html,neue-QuickSwitchScheme.html,neue-warning_for_unnecessary_coalesce_operator.html,neue-1ba722c7.html,neue-ColumnSelection.html,neue-CtrlD.html,neue-CodeCompletionNoShift.html,neue-Multicursor.html,neue-QuickJavaDoc.html,neue-RunConfigFolders.html,neue-EditRegExp.html,neue-CtrlW.html,neue-EvaluateExpressionInEditor.html,neue-3bc4aaa6.html,neue-find_usages.html,neue-PrintKeywords.html,neue-GoToFile.html,neue-DotEtcInLookups.html,neue-NavBar.html,neue-WSLInterpreter.html,neue-InPlaceRefactoring.html,neue-ChangeSorting.html,neue-Multiselection1.html,neue-db_tip_drag_csv_file_to_create_table.html,neue-Terminal.html,neue-GoToSymbol.html,neue-CommentCode.html,neue-InspectionsWidget.html" />
+    <property name="selected.color.option.type" value="DEFAULT_LINE_COMMENT" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+    <property name="vcs.branch.view.splitter.proportion" value="0.2021858" />
+    <property name="vcs.log.details.splitter.proportion" value="0.3409091" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-d2yuYM-1\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-nzTYTzXj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\market-admin-05EscOQr\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\ml-pmROeDfB\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-_wzuQO3w\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-cBKWV6Yj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\recipe-manage\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\sips-AzNDPGK3\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\fastapi-realworld-example-app-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\graphql-starter-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-admin-VWbvXYyn-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-M4asBBlY-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\mes--JFCVCSF-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-algorithms-olUTQR4P-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-B6H08fT1-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-py3.7\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\quiz-yt3ZFDdq-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\sqlalchemy-bulk-test-py3.7\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-d2yuYM-1\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-nzTYTzXj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\market-admin-05EscOQr\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\ml-pmROeDfB\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-_wzuQO3w\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-cBKWV6Yj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\recipe-manage\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\sips-AzNDPGK3\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\fastapi-realworld-example-app-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\graphql-starter-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-admin-VWbvXYyn-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-M4asBBlY-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\mes--JFCVCSF-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-algorithms-olUTQR4P-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-B6H08fT1-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\quiz-yt3ZFDdq-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\sqlalchemy-bulk-test-py3.7\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-d2yuYM-1\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\aps-nzTYTzXj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\market-admin-05EscOQr\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\ml-pmROeDfB\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-_wzuQO3w\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\quiz-cBKWV6Yj\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\recipe-manage\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\.virtualenvs\sips-AzNDPGK3\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\Programs\Python\Python37\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\fastapi-realworld-example-app-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\graphql-starter-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-admin-VWbvXYyn-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-M4asBBlY-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\market-backstage-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\mes--JFCVCSF-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-algorithms-olUTQR4P-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-B6H08fT1-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\python-data-structures-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\quiz-yt3ZFDdq-py3.7\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\huangkai\AppData\Local\pypoetry\Cache\virtualenvs\sqlalchemy-bulk-test-py3.7\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://localhost&amp;^%$#@huang@#$%^&amp;http://buildserver&amp;^%$#@huang" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="python-algorithms-history3" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462735" />
+      <command-history-file filename="python-algorithms-history2" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462731" />
+      <command-history-file filename="market-backstage-history8" project-path="D:/workdir/projects/market-backstage" last-access-time="1642212775939" />
+      <command-history-file filename="python-algorithms-history1" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462728" />
+      <command-history-file filename="python-algorithms-history" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462725" />
+      <command-history-file filename="market-backstage-history6" project-path="D:/workdir/projects/market-backstage" last-access-time="1642212775944" />
+      <command-history-file filename="python-algorithms-history8" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462741" />
+      <command-history-file filename="market-backstage-history" project-path="D:/workdir/projects/market-backstage" last-access-time="1642212775925" />
+      <command-history-file filename="market-admin-history" project-path="D:/workdir/projects/market-admin" last-access-time="1642213254136" />
+      <command-history-file filename="python-algorithms-history5" project-path="D:/workdir/projects/python-algorithms" last-access-time="1642083462738" />
+      <command-history-file filename="market-backstage-history1" project-path="D:/workdir/projects/market-backstage" last-access-time="1642212775930" />
+      <command-history-file filename="market-backstage-history2" project-path="D:/workdir/projects/market-backstage" last-access-time="1642212775934" />
+      <command-history-file filename="mes-backend-history" project-path="D:/workdir/projects/mes-backend" last-access-time="1642212766450" />
+      <command-history-file filename="leetcode-python-history" project-path="D:/workdir/projects/leetcode-python" last-access-time="1641470810455" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>
